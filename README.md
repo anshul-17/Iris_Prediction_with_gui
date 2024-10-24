@@ -21,7 +21,8 @@
 	The Iris dataset is available in the public domain and is commonly used for testing classification algorithms.
 
 	
-	#if any user finds any problem you can contact rahugagan26@gmail.com am happy to help
-	#download the .csv file and .ipynb file upload that file in Jupyter and then run
+	#If you encounter any issues or have questions, feel free to contact me at rahugagan26@gmail.com. I’m happy to help!
+ 	#1. Download the `.csv` dataset file (from the provided link or Kaggle).
+	 2. Upload the `.csv` file and the provided `.ipynb` file to Jupyter Notebook.
 	#install all the Important libraries
 	#I have attached the data and you can download that from Kaggle
