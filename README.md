@@ -1,6 +1,6 @@
 # Iris_Prediction_with_gui
 
-#insttall all the Important libraries
-#Upload the dataset in jupter notebook
+#install all the Important libraries
+#Upload the dataset in the Jupyter notebook
 #then this code will work
-#i have attach the data and you can download that from Kaggle
+#i have attached the data and you can download that from Kaggle
